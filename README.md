@@ -5,3 +5,4 @@
 <h2> <strong> UMA POKEDEX SIMPLES COM UMA JANELA MODAL COM ALGUMAS INFORMAÇÕES PUXADAS DA API <strong> </h2>
 <img src='https://github.com/arthurssoares/pokedex/assets/90150567/14b2b900-144c-4cbe-9695-7bc3332345f1'>
 
+ <h1>PREVIEW: https://arthurssoares.github.io/pokedex/ </h1>
